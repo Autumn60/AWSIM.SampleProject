@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.autumn60.awsim.vehicle.samplevehicle": "https://github.com/Autumn60/AWSIM.Vehicle.SampleVehicle.git?path=/Assets/AWSIM.Vehicle.SampleVehicle#main",
     "com.tier4.awsim.vehicle": "https://github.com/Autumn60/AWSIM.git?path=/Assets/AWSIM.Vehicle#exp/packaged_vehicle_component",
     "com.unity.collab-proxy": "1.3.9",
     "com.unity.ide.rider": "3.0.6",
